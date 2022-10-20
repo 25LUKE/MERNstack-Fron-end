@@ -20,7 +20,7 @@ const DashFooter = () => {
                 <FontAwesomeIcon icon={faHouse} />
             </button>
         )
-    }
+    } 
 
     const content = (
         <footer className="dash-footer">
